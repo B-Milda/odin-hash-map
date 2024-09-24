@@ -1,5 +1,7 @@
 Repozitář obsahuje JS projekt pro Odin Project, ve kterém bylo cílem vytvořit jednoduchou Hash Mapu obsahující testovací data.
 
+Funkční Hash Mapa: https://b-milda.github.io/odin-hash-map/
+
 Implementované funkce Hash Mapy: 
 
 set(key, value): Přidá nebo aktualizuje hodnotu přiřazenou ke klíči. Pokud klíč již existuje, stará hodnota je přepsána novou hodnotou.
