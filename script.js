@@ -144,7 +144,7 @@ class HashMap {
   }
 }
 
-const test = new HashMap() // or HashMap() if using a factory
+const test = new HashMap()
 
 test.set('apple', 'red')
 test.set('banana', 'yellow')
